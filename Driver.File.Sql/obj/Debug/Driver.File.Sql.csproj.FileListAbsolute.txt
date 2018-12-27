@@ -1,0 +1,11 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Sql\bin\Debug\Driver.File.Sql.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Sql\bin\Debug\Driver.File.Sql.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Sql\bin\Debug\System.Data.SQLite.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Sql\obj\Debug\Driver.File.Sql.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Sql\obj\Debug\Driver.File.Sql.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.File.Sql\bin\Debug\Driver.File.Sql.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.File.Sql\bin\Debug\Driver.File.Sql.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.File.Sql\bin\Debug\System.Data.SQLite.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.File.Sql\obj\Debug\Driver.File.Sql.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.File.Sql\obj\Debug\Driver.File.Sql.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.File.Sql\obj\Debug\Driver.File.Sql.pdb

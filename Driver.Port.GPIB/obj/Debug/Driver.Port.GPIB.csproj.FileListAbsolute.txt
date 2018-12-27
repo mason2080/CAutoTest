@@ -1,0 +1,58 @@
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.dll
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.pdb
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.dll
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.pdb
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.dll
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.pdb
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.csprojResolveAssemblyReference.cache
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.dll
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.Native.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\bin\Debug\NationalInstruments.NI4882.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\bin\Debug\NationalInstruments.MStudioCLM.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.xml
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\bin\Debug\NationalInstruments.NI4882.xml
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\bin\Debug\NationalInstruments.NI4882.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.Native.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\bin\Debug\NationalInstruments.MStudioCLM.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.xml
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\bin\Debug\NationalInstruments.NI4882.xml
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.NI4882.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.Native.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.MStudioCLM.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.xml
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.NI4882.xml
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Port.GPIB\bin\Debug\Driver.Port.GPIB.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.Native.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.MStudioCLM.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Port.GPIB\bin\Debug\NationalInstruments.Common.xml
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Port.GPIB\obj\Debug\Driver.Port.GPIB.pdb

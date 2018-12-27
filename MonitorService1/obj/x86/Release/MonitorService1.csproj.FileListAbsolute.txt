@@ -1,0 +1,16 @@
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\MonitorService1\bin\Release\MonitorService1.exe
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\MonitorService1\bin\Release\MonitorService1.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.Form1.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.Properties.Resources.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.exe
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.csprojResolveAssemblyReference.cache
+D:\BNET\程序\CSharpAutoTest\MonitorService1\bin\Release\MonitorService1.exe
+D:\BNET\程序\CSharpAutoTest\MonitorService1\bin\Release\MonitorService1.pdb
+D:\BNET\程序\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.csprojResolveAssemblyReference.cache
+D:\BNET\程序\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.Form1.resources
+D:\BNET\程序\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.Properties.Resources.resources
+D:\BNET\程序\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.csproj.GenerateResource.Cache
+D:\BNET\程序\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.exe
+D:\BNET\程序\CSharpAutoTest\MonitorService1\obj\x86\Release\MonitorService1.pdb

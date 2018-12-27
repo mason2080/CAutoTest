@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Driver.File.Log</name>
+    </assembly>
+    <members>
+        <member name="T:Driver.File.Log.LogFileClass">
+            <summary>
+            用于生成运行信息
+            </summary>
+        </member>
+        <member name="M:Driver.File.Log.LogFileClass.#ctor">
+            <summary>
+            实例化时以日期自动创建文件路径
+            </summary>
+        </member>
+        <member name="M:Driver.File.Log.LogFileClass.LogInfo(System.String)">
+            <summary>
+            自动在运行文件目录/Log 文件中生成以运行exe时间为文件名的txt记录文件
+            并在该文件末尾增加一条记录
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,11 @@
+BarCode,Time,Result,TestItem,TestProduct
+111,2017-7-14 9:41:9,失败,BHN01_BCU项目测试,BMS
+
+Name,Min,Max,Meas,Result
+提示信息3,您好,你好,Yes,FAIL
+提示信息2,Hello,Hello,1231,FAIL
+BCU在线升级结果,1,1,,
+C=A+B,0,0,20,FAIL
+C=A-B,0,0,8,FAIL
+C=A*B,0,0,110,FAIL
+C=A/B,0,0,5,FAIL

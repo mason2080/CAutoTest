@@ -1,0 +1,8 @@
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\DataBase\bin\Debug\DataBase.dll
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\DataBase\bin\Debug\DataBase.pdb
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\DataBase\obj\Debug\DataBase.dll
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\DataBase\obj\Debug\DataBase.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\DataBase\bin\Debug\DataBase.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\DataBase\bin\Debug\DataBase.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\DataBase\obj\Debug\DataBase.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\DataBase\obj\Debug\DataBase.pdb

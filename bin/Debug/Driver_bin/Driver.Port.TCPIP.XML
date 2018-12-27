@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Driver.Port.TCPIP</name>
+    </assembly>
+    <members>
+        <member name="M:Driver.Port.TCPIP.TcpIpClass.Connect(System.String,System.Int32)">
+            <summary>
+            连接TCPIP
+            </summary>
+            <param name="ipaddress">IP地址</param>
+            <param name="port">端口号</param>
+        </member>
+        <member name="M:Driver.Port.TCPIP.TcpIpClass.Send(System.String)">
+            <summary>
+            发送数据
+            </summary>
+            <param name="msg">需要发送的字符串</param>
+        </member>
+        <member name="M:Driver.Port.TCPIP.TcpIpClass.Read">
+            <summary>
+            读取
+            </summary>
+            <returns>返回读取的字符串</returns>
+        </member>
+        <member name="M:Driver.Port.TCPIP.TcpIpClass.DisConnect">
+            <summary>
+            断开TCPIP连接
+            </summary>
+        </member>
+    </members>
+</doc>

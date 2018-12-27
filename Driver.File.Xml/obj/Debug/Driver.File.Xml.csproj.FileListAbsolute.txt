@@ -1,0 +1,12 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.File.Xml\bin\Debug\Driver.File.Xml.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.File.Xml\bin\Debug\Driver.File.Xml.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.File.Xml\obj\Debug\Driver.File.Xml.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.File.Xml\obj\Debug\Driver.File.Xml.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Xml\bin\Debug\Driver.File.Xml.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Xml\bin\Debug\Driver.File.Xml.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Xml\obj\Debug\Driver.File.Xml.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Xml\obj\Debug\Driver.File.Xml.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.File.Xml\bin\Debug\Driver.File.Xml.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.File.Xml\bin\Debug\Driver.File.Xml.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.File.Xml\obj\Debug\Driver.File.Xml.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.File.Xml\obj\Debug\Driver.File.Xml.pdb

@@ -1,0 +1,4 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTestAttributes\bin\Debug\AutoTestAttributes.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTestAttributes\bin\Debug\AutoTestAttributes.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTestAttributes\obj\Debug\AutoTestAttributes.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTestAttributes\obj\Debug\AutoTestAttributes.pdb

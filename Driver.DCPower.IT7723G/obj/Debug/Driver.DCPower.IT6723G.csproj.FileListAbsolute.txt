@@ -1,0 +1,6 @@
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.DCPower.IT7723G\bin\Debug\Driver.DCPower.IT6723G.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.DCPower.IT7723G\bin\Debug\Driver.DCPower.IT6723G.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.DCPower.IT7723G\bin\Debug\AutoTestAttributes.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.DCPower.IT7723G\bin\Debug\AutoTestAttributes.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.DCPower.IT7723G\obj\Debug\Driver.DCPower.IT6723G.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.DCPower.IT7723G\obj\Debug\Driver.DCPower.IT6723G.pdb

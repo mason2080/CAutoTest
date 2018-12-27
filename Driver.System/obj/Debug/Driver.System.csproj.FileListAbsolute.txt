@@ -1,0 +1,7 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.System\bin\Debug\Driver.System.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.System\bin\Debug\Driver.System.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.System\bin\Debug\AutoTestAttributes.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.System\bin\Debug\AutoTestAttributes.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.System\obj\Debug\Driver.System.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.System\obj\Debug\Driver.System.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.System\obj\Debug\Driver.System.pdb

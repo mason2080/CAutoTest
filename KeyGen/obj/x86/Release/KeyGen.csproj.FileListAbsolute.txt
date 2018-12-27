@@ -1,0 +1,40 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\KeyGen\bin\Release\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\KeyGen\bin\Release\KeyGen.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\KeyGen\obj\x86\Release\KeyGen.Form1.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\KeyGen\obj\x86\Release\KeyGen.Properties.Resources.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\KeyGen\obj\x86\Release\KeyGen.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\KeyGen\obj\x86\Release\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\KeyGen\obj\x86\Release\KeyGen.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\KeyGen\obj\x86\Release\KeyGen.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\KeyGen\bin\Release\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\KeyGen\bin\Release\KeyGen.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\KeyGen\obj\x86\Release\KeyGen.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\KeyGen\obj\x86\Release\KeyGen.Form1.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\KeyGen\obj\x86\Release\KeyGen.Properties.Resources.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\KeyGen\obj\x86\Release\KeyGen.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\KeyGen\obj\x86\Release\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\KeyGen\obj\x86\Release\KeyGen.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\KeyGen\bin\Release\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\KeyGen\bin\Release\KeyGen.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\KeyGen\obj\x86\Release\KeyGen.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\KeyGen\obj\x86\Release\KeyGen.Form1.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\KeyGen\obj\x86\Release\KeyGen.Properties.Resources.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\KeyGen\obj\x86\Release\KeyGen.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\KeyGen\obj\x86\Release\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\KeyGen\obj\x86\Release\KeyGen.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\KeyGen\bin\Release\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\KeyGen\bin\Release\KeyGen.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\KeyGen\obj\x86\Release\KeyGen.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\KeyGen\obj\x86\Release\KeyGen.Form1.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\KeyGen\obj\x86\Release\KeyGen.Properties.Resources.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\KeyGen\obj\x86\Release\KeyGen.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\KeyGen\obj\x86\Release\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\KeyGen\obj\x86\Release\KeyGen.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\bin\Release\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\bin\Release\KeyGen.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\obj\x86\Release\KeyGen.Form1.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\obj\x86\Release\KeyGen.Properties.Resources.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\obj\x86\Release\KeyGen.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\obj\x86\Release\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\obj\x86\Release\KeyGen.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\obj\x86\Release\KeyGen.csprojResolveAssemblyReference.cache

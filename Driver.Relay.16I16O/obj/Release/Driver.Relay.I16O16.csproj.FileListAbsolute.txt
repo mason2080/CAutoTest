@@ -1,0 +1,19 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Relay.16I16O\bin\Release\Driver.Relay.16I16O.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Relay.16I16O\bin\Release\Driver.Relay.16I16O.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Relay.16I16O\obj\Release\Driver.Relay.16I16O.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Relay.16I16O\obj\Release\Driver.Relay.16I16O.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.Relay.16I16O.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.Relay.16I16O.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Relay.16I16O\obj\Release\Driver.Relay.I16O16.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver\Driver.Relay.16I16O.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver\Driver.Relay.16I16O.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.Relay.16I16O.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.Relay.16I16O.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Relay.16I16O\obj\Release\Driver.Relay.I16O16.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Relay.16I16O\obj\Release\Driver.Relay.16I16O.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.Relay.16I16O\obj\Release\Driver.Relay.16I16O.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.Relay.16I16O.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.Relay.16I16O.pdb
+D:\BNET\程序\CSharpAutoTest\Driver.Relay.16I16O\obj\Release\Driver.Relay.I16O16.csprojResolveAssemblyReference.cache
+D:\BNET\程序\CSharpAutoTest\Driver.Relay.16I16O\obj\Release\Driver.Relay.16I16O.dll
+D:\BNET\程序\CSharpAutoTest\Driver.Relay.16I16O\obj\Release\Driver.Relay.16I16O.pdb

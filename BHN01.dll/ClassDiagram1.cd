@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="BHN01.Dll.BHN02Config" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>//m8b/G7/q727P//+/++3//3fv//9/377ff93/3f/78=</HashCode>
+      <FileName>BHN02Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.BHN02WConfig" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/zCgbCEojKwmZH+P23yywP1iXv27wdQJxPTpR7kfF7Q=</HashCode>
+      <FileName>BHN02WConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.BmuInfo" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAABAgAACligTALIDCCSgICSB3oCsAQA1AAA2AgADM=</HashCode>
+      <FileName>BmuInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.ChgInfo" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/3ABgSAAcbVAAh4AjEeoDo1iKAAAQIwYQiOCSwNTBTM=</HashCode>
+      <FileName>ChgInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.Config" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>//m8b/G7/q727P//+/++3//3fv//9/377ff93/3f/78=</HashCode>
+      <FileName>Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.ConfigData" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAQAAAAAAQAAACAAAAAAAAAAAAAAAAQAIAAAgA=</HashCode>
+      <FileName>ConfigData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.ErrorInfo" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAABCAAADAAAACAAAACCEAAYAAEAAAAAgAAgAQ=</HashCode>
+      <FileName>ErrorInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.InputBmuNo" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAQAACAAAACAAAYAQAAAHAAAAAAAAA=</HashCode>
+      <FileName>InputBmuNo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.Main" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/22zNAiF2P8M0xfdGia7NjMOWAzE6Hoew3RzpOK7LnM=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.Program" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.ProjectGlobal" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectGlobal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.Register" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAAACAAABQQAACAAAACAACIAAAAEGAAEAAgAEA=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.RelayControl" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yAgAIAAACBAABAAAACAAAIKCFAgAQEAAAAARhAQADA=</HashCode>
+      <FileName>RelayControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.SetCan" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACBAABEAAACAAMACCEAgIEAAAAMAAgACAAA=</HashCode>
+      <FileName>SetCan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.Simulator" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/gAACAEAACiAgBAQBDCSQgcCCAggCQUSAGAIAkAUEFE=</HashCode>
+      <FileName>Simulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.TestConfig" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAABACEAABIACBKASAACSAgwBKCAwLAAAgCAAEA=</HashCode>
+      <FileName>TestConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.VoltTemp" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>dQSAhAgExCkiQBILoDGABgACCB06C0QYQHAAAiEJBAI=</HashCode>
+      <FileName>VoltTemp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.WConfig" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/zCgbCEojKwmZH+P23yywP1iXv27wdQJxPTpR7kfF7Q=</HashCode>
+      <FileName>WConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.Welcome" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Welcome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BHN01.Dll.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="BHN01.Dll.timesCnt" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

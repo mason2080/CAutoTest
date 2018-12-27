@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Driver.File.Ini</name>
+    </assembly>
+    <members>
+        <member name="M:Driver.File.Ini.IniFileClass.#ctor(System.String)">
+            <summary> 
+            构造方法 
+            </summary> 
+            <param name="INIPath">文件路径</param> 
+        </member>
+        <member name="M:Driver.File.Ini.IniFileClass.IniWriteValue(System.String,System.String,System.String)">
+            <summary> 
+            写入INI文件 
+            </summary> 
+            <param name="Section">项目名称(如 [TypeName] )</param> 
+            <param name="Key">键</param> 
+            <param name="Value">值</param> 
+        </member>
+        <member name="M:Driver.File.Ini.IniFileClass.IniWriteValue(System.String,System.String,System.String,System.String)">
+            <summary> 
+            写入INI文件 
+            </summary> 
+            <param name="Section">项目名称(如 [TypeName] )</param> 
+            <param name="Key">键</param> 
+            <param name="Value">值</param> 
+        </member>
+        <member name="M:Driver.File.Ini.IniFileClass.IniReadValue(System.String,System.String)">
+            <summary> 
+            读出INI文件 
+            </summary> 
+            <param name="Section">项目名称(如 [TypeName] )</param> 
+            <param name="Key">键</param> 
+        </member>
+        <member name="M:Driver.File.Ini.IniFileClass.IniReadValue(System.String,System.String,System.String)">
+            <summary> 
+            读出INI文件 
+            </summary> 
+            <param name="Section">项目名称(如 [TypeName] )</param> 
+            <param name="Key">键</param> 
+        </member>
+        <member name="M:Driver.File.Ini.IniFileClass.ExistINIFile">
+            <summary> 
+            验证文件是否存在 
+            </summary> 
+            <returns>布尔值</returns> 
+        </member>
+    </members>
+</doc>

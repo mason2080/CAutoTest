@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.Form1.resources
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\bin\Debug\Driver_bin\NBET_LIfeTest.exe
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\bin\Debug\Driver_bin\NBET_LIfeTest.pdb
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.exe
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.pdb
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.exe
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.pdb
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\bin\Debug\Driver_bin\NBET_LIfeTest.exe
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\bin\Debug\Driver_bin\NBET_LIfeTest.pdb
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.csprojResolveAssemblyReference.cache
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.Form1.resources
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.Properties.Resources.resources
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\bin\Debug\Driver_bin\NBET_LIfeTest.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\bin\Debug\Driver_bin\NBET_LIfeTest.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.Properties.Resources.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.UserControl1.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\bin\Debug\Driver_bin\NBET_LIfeTest.exe.config
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.exe.licenses
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.Main.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.ChgInfo.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.VoltTemp.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.RelayControl.resources

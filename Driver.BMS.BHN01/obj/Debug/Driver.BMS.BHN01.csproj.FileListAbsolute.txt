@@ -1,0 +1,5 @@
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.BMS.BHN01.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.BMS.BHN01.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BMS.BHN01\obj\Debug\Driver.BMS.BHN01.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BMS.BHN01\obj\Debug\Driver.BMS.BHN01.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BMS.BHN01\obj\Debug\Driver.BMS.BHN01.pdb

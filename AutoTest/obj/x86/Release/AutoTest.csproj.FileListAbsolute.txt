@@ -1,0 +1,184 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\BMS_Monitor_V1.0.0.exe.config
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\BMS_Monitor_V1.0.0.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\BMS_Monitor_V1.0.0.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\DataBase.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.File.Csv.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.File.Ini.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.File.Log.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.File.Txt.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.Port.SerialPort.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.Port.TCPIP.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\DataBase.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.File.Csv.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.File.Ini.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.File.Log.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.File.Txt.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.Port.SerialPort.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\bin\Release\Driver.Port.TCPIP.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.BHN02Config.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.BmuInfo.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.ChgInfo.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.ErrorInfo.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.InputBmuNo.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.Main.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\BNET_BMS_Monitor.Properties.Resources.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.RelayControl.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.SetCan.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.Simulator.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.VoltTemp.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.WConfig.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.TestConfig.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.Welcome.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.BHN02WConfig.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.Login.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.exe.licenses
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.MainSelect.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.ProjectSelect.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.StepEdit.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.ProjectEdit.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\AutoTest\obj\x86\Release\AutoTest.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\BMS_Monitor_V1.0.0.exe.config
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.DllDebug.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.InputBmuNo.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.MainTest.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.Properties.Resources.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.SelectTestItem.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.SetCan.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.Welcome.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.Login.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.MainSelect.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.ProjectSelect.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.StepEdit.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.ProjectEdit.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.SelectTestProject.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.DeviceEdit.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.HistoryData.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.exe.licenses
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\BMS_Monitor_V1.0.0.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\BMS_Monitor_V1.0.0.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\DataBase.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.File.Csv.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.File.Ini.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.File.Log.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.File.Txt.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.Port.SerialPort.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.Port.TCPIP.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\DataBase.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.File.Csv.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.File.Ini.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.File.Log.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.File.Txt.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.Port.SerialPort.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.Port.TCPIP.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\obj\x86\Release\AutoTest.LoopTest.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\AutoTestAttributes.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.File.Sql.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\BMS_Monitor_V1.0.0.exe.config
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\BMS_Monitor_V1.0.0.exe
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\BMS_Monitor_V1.0.0.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\DataBase.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Csv.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Ini.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Log.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Txt.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.SerialPort.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.TCPIP.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\DataBase.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Csv.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Ini.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Log.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Txt.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.SerialPort.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.TCPIP.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\AutoTestAttributes.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Sql.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.DllDebug.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.InputBmuNo.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.LoopTest.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.MainTest.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.Properties.Resources.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.SelectTestItem.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.SetCan.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.Welcome.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.Login.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.MainSelect.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.ProjectSelect.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.StepEdit.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.ProjectEdit.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.SelectTestProject.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.DeviceEdit.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.HistoryData.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.exe.licenses
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.exe
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\IrisSkin4.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.InputSN.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.SelectDeviceConfig.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.PreviewHistory.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.TestFinished.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.NewArray.resources
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.DeviceControl.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\BMS_Monitor_V1.0.0.exe.config
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.exe
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.csprojResolveAssemblyReference.cache
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.DeviceControl.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.DllDebug.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.InputBmuNo.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.InputSN.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.LoopTest.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.MainTest.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.NewArray.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.PreviewHistory.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.Properties.Resources.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.SelectTestItem.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.SetCan.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.Welcome.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.Login.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.MainSelect.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.ProjectSelect.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.StepEdit.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.ProjectEdit.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.SelectTestProject.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.DeviceEdit.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.HistoryData.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.SelectDeviceConfig.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.TestFinished.resources
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\AutoTest.csproj.GenerateResource.Cache
+D:\BNET\程序\CSharpAutoTest\AutoTest\obj\x86\Release\BMS_Monitor_V1.0.0.exe.licenses
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\BMS_Monitor_V1.0.0.exe
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\BMS_Monitor_V1.0.0.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\DataBase.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Csv.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Ini.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Log.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Txt.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.Can.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.SerialPort.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.TCPIP.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\IrisSkin4.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\DataBase.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Csv.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Ini.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Log.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Txt.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.Can.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.SerialPort.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.Port.TCPIP.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\AutoTestAttributes.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver.File.Sql.pdb

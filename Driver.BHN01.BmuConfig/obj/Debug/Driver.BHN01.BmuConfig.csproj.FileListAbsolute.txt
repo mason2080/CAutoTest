@@ -1,0 +1,7 @@
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.BmuConfig\bin\Debug\Driver.BHN01.BmuConfig.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.BmuConfig\bin\Debug\Driver.BHN01.BmuConfig.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.BmuConfig\bin\Debug\AutoTestAttributes.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.BmuConfig\bin\Debug\AutoTestAttributes.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.BmuConfig\obj\Debug\Driver.BHN01.BmuConfig.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.BmuConfig\obj\Debug\Driver.BHN01.BmuConfig.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.BmuConfig\obj\Debug\Driver.BHN01.BmuConfig.pdb

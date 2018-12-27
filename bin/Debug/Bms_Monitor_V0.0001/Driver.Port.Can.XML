@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Driver.Port.Can</name>
+    </assembly>
+    <members>
+        <member name="M:Driver.Port.Can.ZlgCanClass.#ctor(System.UInt32,System.UInt32,System.UInt32,System.UInt32)">
+            <summary>
+            初始化
+            </summary>
+            <param name="devicetype">0:USBCAN 1:USBCAN_2E_U</param>
+            <param name="baudrate">0:250K 1:500K</param>
+            <param name="deviceIndex">设备索引 0~20</param>
+            <param name="channel">CAN通道 0~1</param>
+            
+        </member>
+        <member name="M:Driver.Port.Can.ZlgCanClass.Can_InitChanWithFilter(System.Int32)">
+            <summary>
+            初始化CAN设备
+            </summary>
+            
+        </member>
+        <member name="M:Driver.Port.Can.ZlgCanClass.Can_InitChan1(System.Int32)">
+            <summary>
+            初始化CAN设备
+            </summary>
+            
+        </member>
+        <member name="M:Driver.Port.Can.ZlgCanClass.Can_Close">
+            <summary>
+            关闭CAN设备
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Driver.Port.Can.ZlgCanClass.CanClearBuffer">
+            <summary>
+            清设备缓存数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Driver.Port.Can.ZlgCanClass.Can_ReceiveCh0(System.UInt32@)">
+            <summary>
+            CAN接收
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Driver.Port.Can.ZlgCanClass.Can_SendOneFrameCh0(System.UInt32,System.Byte[],System.Byte)">
+            <summary>
+            发送一帧CAN信息
+            </summary>
+            <param name="canId">Can Id</param>
+            <param name="sendData">需要发送的字节数组</param>
+            <param name="externFlag">00：标准帧 01：扩展帧</param>
+        </member>
+    </members>
+</doc>

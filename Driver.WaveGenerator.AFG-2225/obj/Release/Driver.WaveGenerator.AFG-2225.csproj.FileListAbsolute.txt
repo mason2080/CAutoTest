@@ -1,0 +1,15 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver\Driver.WaveGenerator.AFG2225.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver\Driver.WaveGenerator.AFG2225.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.WaveGenerator.AFG-2225\obj\Release\Driver.WaveGenerator.AFG2225.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.WaveGenerator.AFG-2225\obj\Release\Driver.WaveGenerator.AFG2225.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.WaveGenerator.AFG-2225\obj\Release\Driver.WaveGenerator.AFG-2225.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.WaveGenerator.AFG2225.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.WaveGenerator.AFG2225.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.WaveGenerator.AFG-2225\obj\Release\Driver.WaveGenerator.AFG-2225.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.WaveGenerator.AFG-2225\obj\Release\Driver.WaveGenerator.AFG2225.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.WaveGenerator.AFG-2225\obj\Release\Driver.WaveGenerator.AFG2225.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.WaveGenerator.AFG2225.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.WaveGenerator.AFG2225.pdb
+D:\BNET\程序\CSharpAutoTest\Driver.WaveGenerator.AFG-2225\obj\Release\Driver.WaveGenerator.AFG-2225.csprojResolveAssemblyReference.cache
+D:\BNET\程序\CSharpAutoTest\Driver.WaveGenerator.AFG-2225\obj\Release\Driver.WaveGenerator.AFG2225.dll
+D:\BNET\程序\CSharpAutoTest\Driver.WaveGenerator.AFG-2225\obj\Release\Driver.WaveGenerator.AFG2225.pdb

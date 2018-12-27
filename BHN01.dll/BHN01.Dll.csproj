@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B854CBA7-08FF-423F-887D-A156BFFB8772}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BHN01Dll</RootNamespace>
+    <AssemblyName>BHN01Dll</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\Debug\Driver_bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\AutoTest\bin\Release\Driver\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>未标题-2_00001.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NationalInstruments.Common, Version=15.0.40.49154, Culture=neutral, PublicKeyToken=dc6ad606294fc298" />
+    <Reference Include="NationalInstruments.UI, Version=15.0.40.49153, Culture=neutral, PublicKeyToken=dc6ad606294fc298" />
+    <Reference Include="NationalInstruments.UI.WindowsForms, Version=15.0.40.49153, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BHN01Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BHN01Config.Designer.cs">
+      <DependentUpon>BHN01Config.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigData.cs" />
+    <Compile Include="IDeviceControl.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProjectGlobal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BHN01Config.resx">
+      <DependentUpon>BHN01Config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AutoTestAttributes\AutoTestAttribute.csproj">
+      <Project>{ABFE8A5F-3EF7-420E-BE88-0528FABCC9A7}</Project>
+      <Name>AutoTestAttribute</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AutoTest\AutoTest.csproj">
+      <Project>{AF310B9D-ED5D-480B-BFA2-47B433F2EFF0}</Project>
+      <Name>AutoTest</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataBase\Driver.DataBase.Sql.csproj">
+      <Project>{B5B26E7E-71ED-41D8-A5D0-B2A8BE10E318}</Project>
+      <Name>Driver.DataBase.Sql</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Driver.File.Csv\Driver.File.Csv.csproj">
+      <Project>{58986288-A8FE-4D7C-A855-CFD9B348B506}</Project>
+      <Name>Driver.File.Csv</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Driver.File.Ini\Driver.File.Ini.csproj">
+      <Project>{2675F637-AF47-4406-A9CE-257ACB88BF25}</Project>
+      <Name>Driver.File.Ini</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Driver.File.Log\Driver.File.Log.csproj">
+      <Project>{C04A2A48-1328-4ED2-A6D0-62D67DAB75F1}</Project>
+      <Name>Driver.File.Log</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Driver.File.Txt\Driver.File.Txt.csproj">
+      <Project>{4C71E700-3482-4BAF-9692-1A676A143510}</Project>
+      <Name>Driver.File.Txt</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Driver.Port.Can\Driver.Port.Can.csproj">
+      <Project>{371D685B-B3FA-4A30-8A2C-05B8C5CFC8D8}</Project>
+      <Name>Driver.Port.Can</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Driver.Port.SerialPort\Driver.Port.SerialPort.csproj">
+      <Project>{0FFBB8FC-2892-4F0C-A7F8-D5952787CD86}</Project>
+      <Name>Driver.Port.SerialPort</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Driver.Port.TCPIP\Driver.Port.TCPIP.csproj">
+      <Project>{51E68639-97C9-4DB7-958E-D8390B73283A}</Project>
+      <Name>Driver.Port.TCPIP</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Mainexecute.ico" />
+    <Content Include="未标题-2_00001.ico" />
+    <None Include="Resources\icon_08.png" />
+    <None Include="Resources\icon_03.png" />
+    <None Include="Resources\icon_05.png" />
+    <None Include="Resources\icon_07.png" />
+    <None Include="Resources\cir_up_15.png" />
+    <None Include="Resources\cir_up_14.png" />
+    <None Include="Resources\cir_up_13.png" />
+    <None Include="Resources\cir_up_12.png" />
+    <EmbeddedResource Include="Resources\cir_up_11.png" />
+    <None Include="Resources\cir_up_10.png" />
+    <None Include="Resources\cir_up_9.png" />
+    <None Include="Resources\cir_up_8.png" />
+    <None Include="Resources\cir_up_7.png" />
+    <None Include="Resources\cir_up_6.png" />
+    <None Include="Resources\cir_up_5.png" />
+    <EmbeddedResource Include="Resources\cir_up_4.png" />
+    <None Include="Resources\cir_up_3.png" />
+    <None Include="Resources\cir_up_2.png" />
+    <None Include="Resources\cir_up_1.png" />
+    <None Include="Resources\cir_up.png" />
+    <None Include="Resources\cir_bottom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

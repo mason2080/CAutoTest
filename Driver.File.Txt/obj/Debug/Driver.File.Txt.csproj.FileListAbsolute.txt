@@ -1,0 +1,21 @@
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Txt\bin\Debug\Driver.File.Txt.dll
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Txt\bin\Debug\Driver.File.Txt.pdb
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Txt\obj\Debug\Driver.File.Txt.dll
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Txt\obj\Debug\Driver.File.Txt.pdb
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Txt\obj\Debug\Driver.File.Txt.csprojResolveAssemblyReference.cache
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Txt\bin\Debug\Driver.File.Txt.dll
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Txt\bin\Debug\Driver.File.Txt.pdb
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Txt\obj\Debug\Driver.File.Txt.dll
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Txt\obj\Debug\Driver.File.Txt.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.File.Txt\bin\Debug\Driver.File.Txt.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.File.Txt\bin\Debug\Driver.File.Txt.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.File.Txt\obj\Debug\Driver.File.Txt.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.File.Txt\obj\Debug\Driver.File.Txt.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.File.Txt\bin\Debug\Driver.File.Txt.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.File.Txt\bin\Debug\Driver.File.Txt.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.File.Txt\obj\Debug\Driver.File.Txt.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.File.Txt\obj\Debug\Driver.File.Txt.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Txt\bin\Debug\Driver.File.Txt.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Txt\bin\Debug\Driver.File.Txt.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Txt\obj\Debug\Driver.File.Txt.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Txt\obj\Debug\Driver.File.Txt.pdb

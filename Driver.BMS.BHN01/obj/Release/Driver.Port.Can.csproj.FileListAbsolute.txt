@@ -1,0 +1,33 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.Can\bin\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.Can\bin\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.Can\obj\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.Can\obj\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.Port.Can\obj\Release\Driver.Port.Can.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\Driver.Port.Can\bin\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\Driver.Port.Can\bin\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\Driver.Port.Can\obj\Release\Driver.Port.Can.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\Driver.Port.Can\obj\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk - vin\Driver.Port.Can\obj\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\Driver.Port.Can\bin\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\Driver.Port.Can\bin\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\Driver.Port.Can\obj\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -dll\Driver.Port.Can\obj\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\Driver.Port.Can\bin\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\Driver.Port.Can\bin\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\Driver.Port.Can\obj\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\4.trunk -世捷\Driver.Port.Can\obj\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.Can\bin\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.Can\bin\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.Can\obj\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.Port.Can\obj\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.Can\bin\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.Can\bin\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.Can\bin\Release\AutoTestAttributes.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.Can\bin\Release\AutoTestAttributes.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.Can\obj\Release\Driver.Port.Can.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.Can\obj\Release\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.Port.Can\obj\Release\Driver.Port.Can.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver\Driver.Port.Can.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver\Driver.Port.Can.pdb

@@ -1,0 +1,3 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\bin\Debug\Driver_bin\NBET_LIfeTest.exe.config
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\NBET_LIfeTest\obj\x86\Debug\NBET_LIfeTest.pdb

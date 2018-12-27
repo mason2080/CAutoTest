@@ -1,0 +1,4 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver\Driver.BHN01.CanUpdate.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver\Driver.BHN01.CanUpdate.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.BHN01.CanUpdate\obj\Release\Driver.BHN01.CanUpdate.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.BHN01.CanUpdate\obj\Release\Driver.BHN01.CanUpdate.pdb

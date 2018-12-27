@@ -1,0 +1,6 @@
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.CanUpdate\bin\Debug\Driver.BHN01.CanUpdate.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.CanUpdate\bin\Debug\Driver.BHN01.CanUpdate.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.CanUpdate\bin\Debug\AutoTestAttributes.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.CanUpdate\bin\Debug\AutoTestAttributes.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.CanUpdate\obj\Debug\Driver.BHN01.CanUpdate.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.BHN01.CanUpdate\obj\Debug\Driver.BHN01.CanUpdate.pdb

@@ -1,0 +1,24 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\bin\Release\AutoTestAttributes.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\bin\Release\NationalInstruments.Common.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\bin\Release\NationalInstruments.NiLmClientDLL.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\bin\Release\NationalInstruments.Common.Native.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\bin\Release\NationalInstruments.MStudioCLM.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\bin\Release\AutoTestAttributes.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\bin\Release\NationalInstruments.Common.xml
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\obj\Release\Driver.AgilentCurrPower.6680A.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\bin\Release\Driver.AgilentCurrPower.A6680A.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\bin\Release\Driver.AgilentCurrPower.A6680A.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\obj\Release\Driver.AgilentCurrPower.A6680A.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.AgilentCurrPower.6680A\obj\Release\Driver.AgilentCurrPower.A6680A.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver\Driver.AgilentCurrPower.A6680A.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\Driver\Driver.AgilentCurrPower.A6680A.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.AgilentCurrPower.A6680A.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.AgilentCurrPower.A6680A.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.AgilentCurrPower.6680A\obj\Release\Driver.AgilentCurrPower.6680A.csprojResolveAssemblyReference.cache
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.AgilentCurrPower.6680A\obj\Release\Driver.AgilentCurrPower.A6680A.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\Driver.AgilentCurrPower.6680A\obj\Release\Driver.AgilentCurrPower.A6680A.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.AgilentCurrPower.A6680A.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\Driver\Driver.AgilentCurrPower.A6680A.pdb
+D:\BNET\程序\CSharpAutoTest\Driver.AgilentCurrPower.6680A\obj\Release\Driver.AgilentCurrPower.6680A.csprojResolveAssemblyReference.cache
+D:\BNET\程序\CSharpAutoTest\Driver.AgilentCurrPower.6680A\obj\Release\Driver.AgilentCurrPower.A6680A.dll
+D:\BNET\程序\CSharpAutoTest\Driver.AgilentCurrPower.6680A\obj\Release\Driver.AgilentCurrPower.A6680A.pdb

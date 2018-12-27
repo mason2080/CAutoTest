@@ -1,0 +1,14 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTestAttributes\bin\Release\AutoTestAttributes.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTestAttributes\bin\Release\AutoTestAttributes.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTestAttributes\obj\Release\AutoTestAttributes.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTestAttributes\obj\Release\AutoTestAttributes.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\AutoTestAttributes.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\AutoTest\bin\Release\AutoTestAttributes.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\AutoTestAttributes.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTest\bin\Release\AutoTestAttributes.pdb
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTestAttributes\obj\Release\AutoTestAttributes.dll
+F:\Bluewave New Energy\A-SVN\CSharpAutoTest\AutoTestAttributes\obj\Release\AutoTestAttributes.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\AutoTestAttributes.dll
+D:\BNET\程序\CSharpAutoTest\AutoTest\bin\Release\AutoTestAttributes.pdb
+D:\BNET\程序\CSharpAutoTest\AutoTestAttributes\obj\Release\AutoTestAttributes.dll
+D:\BNET\程序\CSharpAutoTest\AutoTestAttributes\obj\Release\AutoTestAttributes.pdb

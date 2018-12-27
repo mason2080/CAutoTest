@@ -1,0 +1,25 @@
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Ini\bin\Debug\Driver.File.Ini.dll
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Ini\bin\Debug\Driver.File.Ini.pdb
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Ini\obj\Debug\Driver.File.Ini.dll
+C:\Users\Administrator\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Ini\obj\Debug\Driver.File.Ini.pdb
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Ini\bin\Debug\Driver.File.Ini.dll
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Ini\bin\Debug\Driver.File.Ini.pdb
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Ini\obj\Debug\Driver.File.Ini.dll
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\Driver.File.Ini\obj\Debug\Driver.File.Ini.pdb
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\bin\Debug\Driver_bin\Driver.File.Ini.dll
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\bin\Debug\Driver_bin\Driver.File.Ini.pdb
+C:\Users\T450\Desktop\BMS_MonitorC#\BMS_Moniror\bin\Debug\Driver_bin\Driver.File.Ini.XML
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\bin\Debug\Driver_bin\Driver.File.Ini.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\bin\Debug\Driver_bin\Driver.File.Ini.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.File.Ini\obj\Debug\Driver.File.Ini.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk\Driver.File.Ini\obj\Debug\Driver.File.Ini.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\bin\Debug\Driver_bin\Driver.File.Ini.XML
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\bin\Debug\Driver_bin\Driver.File.Ini.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\bin\Debug\Driver_bin\Driver.File.Ini.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.File.Ini\obj\Debug\Driver.File.Ini.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\Driver.File.Ini\obj\Debug\Driver.File.Ini.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\bin\Debug\Driver_bin\Driver.File.Ini.XML
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\bin\Debug\Driver_bin\Driver.File.Ini.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\bin\Debug\Driver_bin\Driver.File.Ini.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Ini\obj\Debug\Driver.File.Ini.dll
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\trunk -AutoTest\Driver.File.Ini\obj\Debug\Driver.File.Ini.pdb

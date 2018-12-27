@@ -1,0 +1,7 @@
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\bin\Debug\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\bin\Debug\KeyGen.pdb
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\obj\x86\Debug\KeyGen.Form1.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\obj\x86\Debug\KeyGen.Properties.Resources.resources
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\obj\x86\Debug\KeyGen.csproj.GenerateResource.Cache
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\obj\x86\Debug\KeyGen.exe
+F:\Bluewave New Energy\SVN_Work\BMS_MonitorC#\5.trunk -自动化\KeyGen\obj\x86\Debug\KeyGen.pdb
